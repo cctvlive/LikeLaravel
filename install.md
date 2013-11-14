@@ -47,7 +47,7 @@ composer self-update
 Composer 装好后，我们就开始装 Laravel 吧！
 
 
-
+未完待续……
 
 
 [返回目录] [1]
