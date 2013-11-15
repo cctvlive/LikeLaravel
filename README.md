@@ -9,8 +9,9 @@ Laravel 是一个前沿的PHP框架，多余的就不说了，详细的 Laravel 
 ###目录
 
 #### 基础
-[Laravel安装][3]
+1. [Laravel 安装][3]  
+2. [Laravel 配置][4]
 
 [1]: http://www.golaravel.com/ "Laravel中文网"
 [2]: http://laravel.com/ "Laravel官网"
-[3]: https://github.com/maliang/LikeLaravel/blob/master/install.md "Laravel安装"
+[3]: https://github.com/maliang/LikeLaravel/blob/master/config.md "Laravel 配置"
