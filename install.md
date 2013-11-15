@@ -46,6 +46,26 @@ composer self-update
 ```
 Composer 装好后，我们就开始装 Laravel 吧！
 
+### Laravel 安装
+#### 最低要求（注意 PHP 版本）
+1. PHP最低版本： 5.3.7
+2. MCrypt PHP扩展
+
+上面我们已经安装好了 Composer，然后我们打开终端（Win 开打cmd），进入到 PHP 环境目录，运行命令
+```terminal
+composer create-project laravel/laravel your-project-name
+```
+面对这一串命令不要害怕，你只要修改`your-project-name`就行了，它代表你要安装 Laravel 的文件名。比如我有个项目叫 onepiece，那么上面的命令就是
+```terminal
+composer create-project laravel/laravel onepiece
+```
+运行这句代码后，Composer 就开始下载需要的文件了，等运行结束，你会在你的 PHP 环境目录里看到 onepiece 这个文件夹。现在 Laravel 就安装好了，我们可以在浏览器输入
+```browser
+http://127.0.0.1/onepiece/public
+```
+看到如下画面就是安装成功了
+![安装成功！] [6]
+
 
 未完待续……
 
@@ -58,3 +78,4 @@ Composer 装好后，我们就开始装 Laravel 吧！
 [3]: http://getcomposer.org/ "Composer官网"
 [4]: http://getcomposer.org/download/ "官网下载页面"
 [5]: http://getcomposer.org/Composer-Setup.exe "下载安装文件"
+[6]: succeed.png "安装成功！"
