@@ -1,6 +1,23 @@
 Laravel 安装指南
 =====
+### Git 介绍
+之所以要说 Git，就是因为 Composre 要用到 Git，Composer 暂且不表，先来了解一下 Git 吧（已经安装的童鞋跳过这里，直接看 [Composer介绍] [7]）
 
+Git 是一个快速、可扩展的分布式版本控制系统。好，介绍就到这里，详细的可以到 [Git 官网] [8] 去了解更多，我们主要讲一下它的安装。这里只以 Ubuntu 和 Windowns 为例，其他你们应该可以推理出来吧？
+#### Ubuntu Git 安装
+打开终端输入以下命令
+```terminal
+sudo apt-get install git-core
+```
+好了，现在我们的 Git 就装好了。
+
+#### Windowns Git 安装
+下载 Windowns 下的 Git 安装包：[官网下载页面] [9] 或者点击 [下载安装文件] [10]，进行安装。  
+安装过程中其他不用管，只是到了下面这幅界面的时候，记得选择第二项，此项会将 Git 添加到 Windows 的环境变量，并且有专门的执行文件，可以解决因 Git 添加到环境变量而产生的冲突。**总之一句话，选第二个就对了**  
+![Git 安装界面] [11]  
+这样 Windowns 下的 Git 就安装好了。下面介绍 Composer。
+
+<a id="composer" href=""></a>
 ### Composer 介绍
 很多童鞋很奇怪，为什么要讲 Composer ？
 
@@ -75,6 +92,11 @@ http://127.0.0.1/onepiece/public
 [1]: https://github.com/maliang/LikeLaravel "返回目录"
 [2]: https://github.com/maliang/LikeLaravel/blob/master/base/config.md "Laravel 配置"
 [3]: http://getcomposer.org/ "Composer官网"
-[4]: http://getcomposer.org/download/ "官网下载页面"
-[5]: http://getcomposer.org/Composer-Setup.exe "下载安装文件"
+[4]: http://getcomposer.org/download/ "Composer 官网下载页面"
+[5]: http://getcomposer.org/Composer-Setup.exe "Composer 安装程序"
 [6]: succeed.png "安装成功！"
+[7]: #composer "跳到 Composer 介绍"
+[8]: http://git-scm.com/ "Git 官网"
+[9]: http://git-scm.com/download "Git 官网下载页面"
+[10]: http://git-scm.com/download/win "Git 安装程序"
+[11]: git.png "Git 安装界面"
