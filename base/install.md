@@ -73,7 +73,7 @@ http://127.0.0.1/onepiece/public
 
 
 [1]: https://github.com/maliang/LikeLaravel "返回目录"
-[2]: https://github.com/maliang/LikeLaravel/blob/master/config.md "Laravel 配置"
+[2]: https://github.com/maliang/LikeLaravel/blob/master/base/config.md "Laravel 配置"
 [3]: http://getcomposer.org/ "Composer官网"
 [4]: http://getcomposer.org/download/ "官网下载页面"
 [5]: http://getcomposer.org/Composer-Setup.exe "下载安装文件"

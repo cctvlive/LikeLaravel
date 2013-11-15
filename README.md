@@ -11,7 +11,23 @@ Laravel 是一个前沿的PHP框架，多余的就不说了，详细的 Laravel 
 #### 基础
 1. [Laravel 安装][3]  
 2. [Laravel 配置][4]
+3. [Laravel 路由][5]
+4. [Laravel 控制器][6]
+5. [Laravel 视图][7]
+6. [Laravel 模型][8]
+7. [Laravel 模板][9]
+7. [Laravel 安装其他包][10]
+
+#### 高级教程
+待续………………
 
 [1]: http://www.golaravel.com/ "Laravel中文网"
 [2]: http://laravel.com/ "Laravel官网"
-[3]: https://github.com/maliang/LikeLaravel/blob/master/config.md "Laravel 配置"
+[3]: https://github.com/maliang/LikeLaravel/blob/master/base/install.md "Laravel 安装"
+[4]: https://github.com/maliang/LikeLaravel/blob/master/base/config.md "Laravel 配置"
+[5]: https://github.com/maliang/LikeLaravel/blob/master/base/routes.md "Laravel 路由"
+[6]: https://github.com/maliang/LikeLaravel/blob/master/base/controllers.md "Laravel 控制器"
+[7]: https://github.com/maliang/LikeLaravel/blob/master/base/views.md "Laravel 视图"
+[8]: https://github.com/maliang/LikeLaravel/blob/master/base/models.md "Laravel 模型"
+[9]: https://github.com/maliang/LikeLaravel/blob/master/base/template.md "Laravel 模板"
+[10]: https://github.com/maliang/LikeLaravel/blob/master/base/package.md "Laravel 安装其他包"
