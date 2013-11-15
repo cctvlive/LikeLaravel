@@ -17,7 +17,6 @@ sudo apt-get install git-core
 ![Git 安装界面] [11]  
 这样 Windowns 下的 Git 就安装好了。下面介绍 Composer。
 
-<a id="composer" href=""></a>
 ### Composer 介绍
 很多童鞋很奇怪，为什么要讲 Composer ？
 
@@ -95,7 +94,7 @@ http://127.0.0.1/onepiece/public
 [4]: http://getcomposer.org/download/ "Composer 官网下载页面"
 [5]: http://getcomposer.org/Composer-Setup.exe "Composer 安装程序"
 [6]: succeed.png "安装成功！"
-[7]: #composer "跳到 Composer 介绍"
+[7]: #composer-%E4%BB%8B%E7%BB%8D "跳到 Composer 介绍"
 [8]: http://git-scm.com/ "Git 官网"
 [9]: http://git-scm.com/download "Git 官网下载页面"
 [10]: http://git-scm.com/download/win "Git 安装程序"
